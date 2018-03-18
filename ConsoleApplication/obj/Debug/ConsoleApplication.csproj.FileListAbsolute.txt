@@ -1,0 +1,27 @@
+C:\VS Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\VS Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\VS Projects\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\VS Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\VS Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\VS Projects\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\VS Projects\ConsoleApplication - Copy\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\VS Projects\ConsoleApplication - Copy\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\VS Projects\ConsoleApplication - Copy\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\VS Projects\ConsoleApplicationSocket\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\VS Projects\ConsoleApplicationSocket\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\VS Projects\ConsoleApplicationSocket\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\VS Projects\ConsoleApplicationSocket\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\VS Projects\ConsoleApplicationSocket\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\VS Projects\ConsoleApplicationSocket\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\VS Projects\Discrete Knapsack C Sharp\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\VS Projects\Discrete Knapsack C Sharp\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\VS Projects\Discrete Knapsack C Sharp\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\VS Projects\Discrete Knapsack C Sharp\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\VS Projects\Discrete Knapsack C Sharp\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\VS Projects\Discrete Knapsack C Sharp\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\VS Projects\Graph Coloring Discrete Optimization\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\VS Projects\Graph Coloring Discrete Optimization\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\VS Projects\Graph Coloring Discrete Optimization\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\VS Projects\Graph Coloring Discrete Optimization\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\VS Projects\Graph Coloring Discrete Optimization\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\VS Projects\Graph Coloring Discrete Optimization\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

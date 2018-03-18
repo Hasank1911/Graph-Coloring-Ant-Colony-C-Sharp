@@ -1,18 +1,18 @@
 # Graph Coloring Ant Colony C Sharp
 
-A fast & reliable and efficient solver for Graph coloring problem using Ant Colony Algorithm.
+A fast & reliable and efficient solver for Graph coloring problem using Ant Colony Algorithm.<br /><br />
 
-Data format;
+Data format;<br /><br />
 
-numberOfNodes numberOfEdges
-nodeA NodeB (Edge 1)
-...
+numberOfNodes numberOfEdges<br />
+nodeA NodeB (Edge 1)<br />
+...<br /><br />
 
-A sample data;
+A sample data;<br />
 
-5 5
-0 1
-0 3
-1 2
-4 2
-3 2
+5 5<br />
+0 1<br />
+0 3<br />
+1 2<br />
+4 2<br />
+3 2<br />

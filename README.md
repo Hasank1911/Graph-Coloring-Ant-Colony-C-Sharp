@@ -16,3 +16,13 @@ A sample data;<br />
 1 2<br />
 4 2<br />
 3 2<br />
+
+
+Output Format;<br /><br />
+
+NumberOfColors<br />
+ColorIDForNode1 ColorIDForNode2 ...<br />
+
+Sample Output; <br /><br />
+2<br />
+1 0 1 0 0<br />
